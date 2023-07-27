@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharsaadon&label=Profile%20views&color=0e75b6&style=flat" alt="shaharsaadon" /> </p>
 
-- 🌱 I’m currently learning **Angular16**
+- 🌱 I’m currently learning **Next.js**
 
 - My favorite Project is [Merllo](https://merllo-0m15.onrender.com/)
 
-- 🔭 I’m currently working on [kinSize - eCommerce by react](https://github.com/ShaharSaadon/King-Size)
+- 🔭 I’m currently working on [Epicure - An online food ordering platform](https://github.com/ShaharSaadon/epicure-frontend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaharSaadon?tab=repositories](https://github.com/ShaharSaadon?tab=repositories)
 
